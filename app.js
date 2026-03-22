@@ -362,6 +362,32 @@ const incidents = [
       { name: "YouTube (Fox News Clip)", url: "https://www.youtube.com/watch?v=tvxu9boRFIM" },
       { name: "Common Dreams", url: "https://www.commondreams.org/news/trump-eugenics" }
     ]
+  },
+  {
+    date: "2026-03-21",
+    title: "\"Good, I'm glad he's dead.\" -- On the Death of Robert Mueller",
+    body: "Former FBI Director Robert Mueller -- the man who spent two years investigating Russian interference in Trump's 2016 campaign -- died at age 81. Within hours, the President of the United States posted on Truth Social: \"Robert S. Mueller III just died. Good, I'm glad he's dead. He can no longer hurt innocent people!\" Even by Trump's standards for dancing on graves (he trashed Colin Powell the day after he died and mocked John McCain for years after his death), openly celebrating the death of a decorated Vietnam veteran and lifelong public servant hit different. Republicans and Democrats both condemned the remarks. Trump did not elaborate or walk it back.",
+    quote: "Robert S. Mueller III just died. Good, I'm glad he's dead. He can no longer hurt innocent people!",
+    tags: ["Mueller", "Cruelty"],
+    sources: [
+      { name: "CNN", url: "https://www.cnn.com/2026/03/21/politics/donald-trump-robert-mueller-insensitive-comments" },
+      { name: "New York Times", url: "https://www.nytimes.com/2026/03/21/us/politics/trump-mueller-death.html" },
+      { name: "USA Today", url: "https://www.usatoday.com/story/news/politics/2026/03/21/trump-responds-robert-mueller-death/89263401007/" },
+      { name: "YouTube (ABC News)", url: "https://www.youtube.com/watch?v=dRB_QcD7j1w" }
+    ]
+  },
+  {
+    date: "2026-03-22",
+    title: "\"Hit and obliterate their various POWER PLANTS, STARTING WITH THE BIGGEST ONE FIRST!\"",
+    body: "On Day 23 of the Iran war he started, with oil prices soaring and the Strait of Hormuz effectively closed, Trump issued an ultimatum from his Florida golf resort via Truth Social: Iran has 48 hours to reopen the strait or the US will obliterate their power plants. Iran responded by threatening to shut Hormuz completely and destroy infrastructure across the entire Gulf region. Meanwhile, Iran fired missiles at a joint US-UK base in the Indian Ocean and struck near Israel's nuclear facility in Dimona. The 48-hour countdown to potential catastrophic escalation was posted in all-caps, naturally, and signed like a business letter: \"Thank you for your attention to this matter. President DONALD J. TRUMP.\"",
+    quote: "If Iran doesn't FULLY OPEN, WITHOUT THREAT, the Strait of Hormuz, within 48 HOURS from this exact point in time, the United States of America will hit and obliterate their various POWER PLANTS, STARTING WITH THE BIGGEST ONE FIRST! Thank you for your attention to this matter. President DONALD J. TRUMP.",
+    tags: ["Iran War", "Escalation", "Truth Social"],
+    sources: [
+      { name: "NPR", url: "https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities" },
+      { name: "Fox News (Live Updates)", url: "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-22" },
+      { name: "Reuters", url: "https://www.reuters.com/world/middle-east/trump-iran-trade-threats-over-energy-targets-war-escalates-2026-03-22/" },
+      { name: "Al Jazeera (Live Blog)", url: "https://www.aljazeera.com/news/liveblog/2026/3/22/iran-war-live-trump-threatens-attacks-on-power-plants-over-hormuz-strait" }
+    ]
   }
 ];
 
