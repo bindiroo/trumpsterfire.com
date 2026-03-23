@@ -391,8 +391,8 @@ const incidents = [
   }
 ];
 
-// ===== SORT chronologically =====
-incidents.sort((a, b) => new Date(a.date) - new Date(b.date));
+// ===== SORT reverse-chronologically (newest first) =====
+incidents.sort((a, b) => new Date(b.date) - new Date(a.date));
 
 // ===== RENDER =====
 function formatDate(dateStr) {
@@ -464,7 +464,7 @@ function renderTimeline(filter = 'all') {
 }
 
 // ===== YEAR FILTER =====
-const years = [...new Set(incidents.map(i => getYear(i.date)))].sort();
+const years = [...new Set(incidents.map(i => getYear(i.date)))].sort((a, b) => b - a);
 const pillContainer = document.querySelector('.year-pills');
 if (pillContainer) {
   pillContainer.innerHTML = '<button class="pill active" role="tab" aria-selected="true" data-year="all">All</button>';
