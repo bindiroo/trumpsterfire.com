@@ -388,6 +388,19 @@ const incidents = [
       { name: "Reuters", url: "https://www.reuters.com/world/middle-east/trump-iran-trade-threats-over-energy-targets-war-escalates-2026-03-22/" },
       { name: "Al Jazeera (Live Blog)", url: "https://www.aljazeera.com/news/liveblog/2026/3/22/iran-war-live-trump-threatens-attacks-on-power-plants-over-hormuz-strait" }
     ]
+  },
+  {
+    date: "2026-03-23",
+    title: "Sends Immigration Agents to Run Airport Security",
+    body: "With nearly 500 TSA officers having resigned and callout rates above 40% at some airports during the DHS shutdown, Trump's solution was to deploy ICE agents — the immigration enforcement officers at the center of the very funding dispute causing the shutdown — to run security checkpoints at 14 major airports. Mask-free agents trained for deportation raids were now checking your carry-on luggage. When that didn't fix things, Trump floated sending in the National Guard. He eventually signed an executive order to pay TSA workers himself — a move legal experts said may violate the Constitution's requirement that Congress authorize spending. TSA agents had been sleeping in their cars and selling plasma to make ends meet.",
+    quote: null,
+    tags: ["DHS Shutdown", "Immigration", "Airports"],
+    sources: [
+      { name: "Fox News", url: "https://www.foxnews.com/politics/see-it-travelers-sound-off-ice-agents-deployed-airports-shutdown-drags-past-40-days" },
+      { name: "Reuters", url: "https://www.reuters.com/world/us/ice-agents-begin-deploying-some-us-airports-2026-03-23/" },
+      { name: "AP News", url: "https://apnews.com/live/tsa-government-shutdown-ice-trump-03-26-2026" },
+      { name: "PBS NewsHour", url: "https://www.pbs.org/newshour/nation/what-to-know-about-trumps-executive-order-to-pay-tsa-officers-and-its-impact-on-airport-security-lines" }
+    ]
   }
 ];
 
