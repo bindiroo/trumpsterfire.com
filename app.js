@@ -401,6 +401,19 @@ const incidents = [
       { name: "AP News", url: "https://apnews.com/live/tsa-government-shutdown-ice-trump-03-26-2026" },
       { name: "PBS NewsHour", url: "https://www.pbs.org/newshour/nation/what-to-know-about-trumps-executive-order-to-pay-tsa-officers-and-its-impact-on-airport-security-lines" }
     ]
+  },
+  {
+    date: "2026-04-02",
+    title: "Primetime Address: Declares Victory in a War That's Still Going",
+    body: "In his first primetime national address on the Iran conflict -- now in its fifth week and with no end in sight -- Trump told the country the US has 'beat and completely decimated Iran' and that 'core strategic objectives' are 'nearing completion.' He said the war would wrap up in two to three weeks, threatened to bomb every Iranian power plant 'simultaneously,' and promised to send Iran 'back to the Stone Ages' if no deal is reached. He offered no timeline, no exit plan, and no specifics on negotiations. Analysts noted he essentially repeated everything he's been saying for weeks, just this time from a podium with a primetime slot. Iran is 'essentially really no longer a threat,' the President declared -- on the same day Iranian missiles struck a joint US-UK base.",
+    quote: "We've beat and completely decimated Iran... Iran is essentially really no longer a threat.",
+    tags: ["Iran War", "Primetime Address"],
+    sources: [
+      { name: "BBC", url: "https://www.bbc.com/news/articles/cql72qk97gpo" },
+      { name: "Fox News", url: "https://www.foxnews.com/politics/what-you-need-know-5-key-takeaways-from-trumps-iran-address" },
+      { name: "Al Jazeera", url: "https://www.aljazeera.com/amp/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways" },
+      { name: "PBS (Washington Week)", url: "https://www.pbs.org/weta/washingtonweek/video/2026/04/washington-week-with-the-atlantic-full-episode-4326" }
+    ]
   }
 ];
 
