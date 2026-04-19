@@ -414,6 +414,19 @@ const incidents = [
       { name: "Al Jazeera", url: "https://www.aljazeera.com/amp/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways" },
       { name: "PBS (Washington Week)", url: "https://www.pbs.org/weta/washingtonweek/video/2026/04/washington-week-with-the-atlantic-full-episode-4326" }
     ]
+  },
+  {
+    date: "2026-04-07",
+    title: "\"A Whole Civilization Will Die Tonight\" / \"Very Little Is Off Limits\"",
+    body: "With two hours left before his 8pm Iran deadline, Trump posted on Truth Social: 'A whole civilization WILL DIE tonight, never to be brought back again. I don't want that to happen, but it probably will.' He called it 'one of the most important moments in the long and complex history of the World.' That same day, asked by reporters whether threatening to destroy all of Iran's civilian infrastructure raised war crimes concerns, Trump shrugged: 'Very little is off limits.' He separately described 'complete demolition in four hours' of every bridge and power plant. The New York Times ran the headline 'Trump's Iran Threats Look Like Self-Incrimination for Potential War Crimes.' A former State Department legal advisor said the civilization comment 'could plausibly be interpreted as a threat to commit genocide.' Iran agreed to a ceasefire 100 minutes before the deadline. Trump called it a 'total and complete victory.'",
+    quote: "A whole civilization WILL DIE tonight, never to be brought back again. I don't want that to happen, but it probably will.",
+    tags: ["Iran War", "War Crimes", "Truth Social"],
+    sources: [
+      { name: "New York Times", url: "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-crimes.html" },
+      { name: "Military Times", url: "https://www.militarytimes.com/news/pentagon-congress/2026/04/07/a-whole-civilization-will-die-tonight-trump-says-as-iran-defies-deal/" },
+      { name: "Democracy Now", url: "https://www.democracynow.org/2026/4/7/headlines/trump_shrugs_off_concerns_over_war_crimes_renews_threat_to_blow_up_irans_civilian_infrastructure" },
+      { name: "YouTube (The National Desk)", url: "https://www.youtube.com/watch?v=Kwk7OpluvE0" }
+    ]
   }
 ];
 
