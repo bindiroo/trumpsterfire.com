@@ -427,6 +427,41 @@ const incidents = [
       { name: "Democracy Now", url: "https://www.democracynow.org/2026/4/7/headlines/trump_shrugs_off_concerns_over_war_crimes_renews_threat_to_blow_up_irans_civilian_infrastructure" },
       { name: "YouTube (The National Desk)", url: "https://www.youtube.com/watch?v=Kwk7OpluvE0" }
     ]
+  },
+  {
+    date: "2026-05-12",
+    title: "\"Not Even a Little Bit.\" -- Asked If Americans' Financial Pain Factors Into His Iran Decisions",
+    body: "With inflation at a three-year high and gas averaging $4.50 per gallon -- the direct result of a war Trump started -- a reporter asked how much Americans' financial hardship was motivating his push to end the Iran conflict. His answer: 'Not even a little bit.' He elaborated: 'I don't think about Americans' financial situation. I don't think about anybody. I think about one thing: we cannot let Iran have a nuclear weapon. That's all.' Fox covered it as Trump standing firm on national security. Everyone else covered it as the President of the United States telling struggling Americans directly to their face that he doesn't think about them.",
+    quote: "Not even a little bit. I don't think about Americans' financial situation. I don't think about anybody.",
+    tags: ["Iran War", "Economy", "Callousness"],
+    sources: [
+      { name: "The Investigative (Facebook)", url: "https://www.facebook.com/theinvestigative/posts/president-trump-stated-on-may-12-2026-that-americans-financial-situations-are-no/1304721175169825/" },
+      { name: "Heather Cox Richardson", url: "https://www.facebook.com/heathercoxrichardson/posts/may-12-2026-tuesdaythe-biggest-story-in-the-country-today-and-always-is-that-the/1517049436456950/" }
+    ]
+  },
+  {
+    date: "2026-05-22",
+    title: "Refers to His Current Presidency as \"My First Term of Numerous Terms\"",
+    body: "At a Rockland County, New York rally, Trump described his current term as 'my first term of numerous terms' and referred to himself as a 'three-term president,' counting his 2016 win, the 2020 result he disputes, and his 2024 victory. He wears a hat that says 'four more years' which he said drives 'the radical left lunatics crazy.' The Constitution's 22nd Amendment limits presidents to two terms. Trump said he just doesn't want 'the results' of the disputed one. The White House official transcript confirms the 'numerous terms' phrasing verbatim.",
+    quote: "...which is my first term of numerous terms.",
+    tags: ["Third Term", "Democracy", "Rally"],
+    sources: [
+      { name: "White House Official Remarks", url: "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-may-22-2026/" },
+      { name: "YouTube", url: "https://www.youtube.com/watch?v=-N6NIXzXliM" }
+    ]
+  },
+  {
+    date: "2026-06-14",
+    title: "Turns America's 250th Birthday Into a UFC Fight, a Milli Vanilli Concert, and a Rally -- in That Order",
+    body: "For the nation's 250th birthday, Trump's team announced a 16-day festival on the National Mall featuring a lineup of musicians. Then Martina McBride canceled. Then Bret Michaels canceled. Then most of the others canceled, saying they were misled about the event's partisan nature. What remained: Vanilla Ice, Milli Vanilli (only the lip-syncing half -- the actual voices behind the music declined), and Flo Rida. Trump responded by posting 'Cancel it' on Truth Social, calling the remaining artists 'overpriced' and 'boring,' then fired off a post calling them 'highly paid, Third Rate Artists.' He replaced the concert with a rally. On June 14 -- his 80th birthday and Flag Day -- he hosted UFC Freedom 250: cage fights on the White House South Lawn in a $60 million octagon, the first prizefighting event ever held at the People's House. Adam Sandler, Tom Brady, Dwayne Johnson, and Jared Leto were all invited. All declined. Trump bought stock in UFC's parent company during the planning phase. A lawsuit calling it a corrupt use of government property was dismissed the day before the fights. TKO, the company that funded it, was projected to lose $30 million on the event.",
+    quote: "We don't want singers with no talent, but big fees to put you to sleep; we've told them all to stay home. All we want is you, me, a few speakers, and the Greatest Music ever played!",
+    tags: ["250th Birthday", "UFC", "Milli Vanilli", "You Can't Make This Up"],
+    sources: [
+      { name: "New York Magazine (Intelligencer)", url: "https://nymag.com/intelligencer/article/trump-birthday-white-house-ufc-fights-embarrassing-distraction.html" },
+      { name: "BBC", url: "https://www.bbc.com/news/articles/cwy2z23122zo" },
+      { name: "The Daily Beast", url: "https://www.thedailybeast.com/obsessed/a-list-celebs-adam-sandler-dwayne-johnson-and-tom-brady-turn-down-trumps-white-house-ufc-fight-in-droves/" },
+      { name: "The Guardian", url: "https://www.theguardian.com/us-news/2026/jun/08/trump-ufc-white-house-birthday-lawsuit" }
+    ]
   }
 ];
 
