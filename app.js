@@ -462,6 +462,29 @@ const incidents = [
       { name: "The Daily Beast", url: "https://www.thedailybeast.com/obsessed/a-list-celebs-adam-sandler-dwayne-johnson-and-tom-brady-turn-down-trumps-white-house-ufc-fight-in-droves/" },
       { name: "The Guardian", url: "https://www.theguardian.com/us-news/2026/jun/08/trump-ufc-white-house-birthday-lawsuit" }
     ]
+  },
+  {
+    date: "2026-06-25",
+    title: "Supreme Court Gives Trump Power to Deport 350,000 Legal Immigrants -- He Calls It \"A Great Day\"",
+    body: "The Supreme Court ruled 6-3 that Trump can revoke Temporary Protected Status for 350,000 Haitians and 6,000 Syrians living and working legally in the US under humanitarian protections -- people who came because their home countries were too dangerous. A second ruling let the administration turn asylum seekers away before they physically crossed the border. A third made it easier to deport green card holders without the usual evidence standard. Trump called it 'a great day for America and for the rule of law.' The 350,000 Haitians facing deportation include people who have lived in the US for decades, own businesses, and have American-born children. Haiti remains on the State Department's Do Not Travel list.",
+    quote: "Today's Supreme Court ruling is a great day for America and for the rule of law.",
+    tags: ["Immigration", "Supreme Court", "TPS", "Deportation"],
+    sources: [
+      { name: "CNN", url: "https://www.cnn.com/2026/06/25/politics/takeaways-supreme-court-hands-trump-massive-wins-on-immigration-agenda" },
+      { name: "NBC News", url: "https://www.nbcnews.com/meet-the-press/video/supreme-court-hands-trump-administration-two-major-immigration-victories-265697349734" },
+      { name: "US News / Reuters", url: "https://www.usnews.com/news/politics/articles/2026-06-26/on-immigration-supreme-court-accedes-to-trumps-restrictive-agenda" }
+    ]
+  },
+  {
+    date: "2026-07-03",
+    title: "Calls Bankers \"Shylocks\" at Rally, Says He's \"Never Heard\" the Term Is Antisemitic",
+    body: "At his Iowa rally celebrating the passage of the Big Beautiful Bill, Trump complained about high interest rates by saying 'the Shylocks are charging too much.' Shylock is a well-known antisemitic slur derived from the Jewish moneylender villain in Shakespeare's The Merchant of Venice -- one of the most notorious antisemitic tropes in Western literature. The Anti-Defamation League called it 'blatant and vile.' When it was reported, Trump said he had never heard it was a bad term. He is 80 years old and attended the Wharton School of Finance.",
+    quote: "The Shylocks... I've never heard that's a bad term. I never heard that.",
+    tags: ["Antisemitism", "Rally", "Big Beautiful Bill"],
+    sources: [
+      { name: "The Independent", url: "https://www.the-independent.com/news/world/americas/us-politics/trump-big-beautiful-bill-passed-4th-july-protests-latest-news-b2782543.html" },
+      { name: "Esquire", url: "https://www.esquire.com/news-politics/politics/a71836675/trump-speeches-july-4-weekend-2026/" }
+    ]
   }
 ];
 
